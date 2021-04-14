@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/LearnedIndex/myMethod/CT.hpp
+vector
+-
+iostream
+-
+limits
+-
+
+D:/LearnedIndex/myMethod/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+CT.hpp
+D:/LearnedIndex/myMethod/CT.hpp
+
