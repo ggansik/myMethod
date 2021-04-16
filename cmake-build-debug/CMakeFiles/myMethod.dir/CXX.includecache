@@ -13,6 +13,8 @@ iostream
 -
 limits
 -
+cmath
+-
 
 D:/LearnedIndex/myMethod/main.cpp
 iostream
