@@ -15,6 +15,12 @@ limits
 -
 cmath
 -
+algorithm
+-
+chrono
+-
+map
+-
 
 D:/LearnedIndex/myMethod/main.cpp
 iostream
@@ -22,6 +28,10 @@ iostream
 vector
 -
 algorithm
+-
+fstream
+-
+time.h
 -
 CT.hpp
 D:/LearnedIndex/myMethod/CT.hpp

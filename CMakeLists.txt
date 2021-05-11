@@ -3,4 +3,4 @@ project(myMethod)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(myMethod main.cpp CT.hpp)
+add_executable(myMethod main.cpp CT.hpp zipf.hpp)

@@ -86,6 +86,9 @@
 		<Unit filename="D:/LearnedIndex/myMethod/main.cpp">
 			<Option target="myMethod"/>
 		</Unit>
+		<Unit filename="D:/LearnedIndex/myMethod/zipf.hpp">
+			<Option target="myMethod"/>
+		</Unit>
 		<Unit filename="D:/LearnedIndex/myMethod/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
